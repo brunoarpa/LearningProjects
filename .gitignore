@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.pkl
+*.pt
+*.pth
+*.tar.gz
+CIFAR-10-cnn/data/
+DigitRecognizer-mlp-cnn/*.csv
+Nano-GPT-transformers/train_100M/
+JEPA/lewm-reference/
+*.train
